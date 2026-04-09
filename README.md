@@ -39,4 +39,4 @@ Check out my professional work on CodeCanyon:
 
 📫 **Let's Connect:**
 - **Email:** hostusservices@gmail.com
-- **LinkedIn:** [Your LinkedIn Link]
+- **LinkedIn:** www.linkedin.com/in/vivek-das-1ab93578
