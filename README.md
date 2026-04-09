@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Vivek (Vicky) 👋 
+### Full-Stack Flutter Developer | Python Enthusiast | Product Builder
 
-<!--
-**hostusservices/hostusservices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on building high-performance mobile applications and exploring the world of AI and Automation through Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Current Challenge: 100 Days of Python
+I am currently mastering Python by building 100 projects in 100 days. Follow my progress here:
+👉 **[Link to your 100-Days-Python Repo]**
+
+- 📅 **Current Status:** Day 01/100
+- 🛠️ **Today's Project:** Band Name Generator
+- 🎯 **Goal:** Master Data Science, AI, and Backend with Python.
+
+---
+
+## 🛠️ Tech Stack & Tools
+- **Mobile:** Flutter, Dart, Java
+- **Backend:** Firebase, Supabase, Node.js
+- **Currently Learning:** Python (Flask, Selenium, Data Science)
+- **Editor:** Cursor AI, VS Code, PyCharm
+- **Hardware:** Ryzen 3 1200 | 16GB RAM | (Future: Mac Mini M4 🚀)
+
+---
+
+## 📈 My Products
+Check out my professional work on CodeCanyon:
+- 📱 **Handpicked Deals** - Curated shopping experience.
+- 🎮 **Neon Arrow Escape** - High-energy puzzle game.
+
+---
+
+## 📊 GitHub Stats
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostusservices&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hostusservices&layout=compact&theme=radical)
+
+---
+
+📫 **Let's Connect:**
+- **Email:** hostusservices@gmail.com
+- **LinkedIn:** [Your LinkedIn Link]
